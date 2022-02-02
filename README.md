@@ -1,1 +1,2 @@
-# clase36
+# MovimientoDePelotaAsincorono
+Boilerplate para movimiento de la pelota de forma asíncrona
